@@ -10,4 +10,5 @@ ponerle una copia de este en tu maquina
  adicionar los cambios (Commit) y subirlos al repositorio
  con Push 
   para yo revisarlos en mi maquina 
+  mas cosas 
   
